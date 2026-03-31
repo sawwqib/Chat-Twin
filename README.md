@@ -91,6 +91,6 @@ If you like this project:
 
 ## 📬 Tutorial
 
-* YouTube: [https://youtube.com/@sawwqibl](https://youtu.be/JUqzuLyRqdk)
+* YouTube: [Video](https://youtu.be/JUqzuLyRqdk)
 
 ---
