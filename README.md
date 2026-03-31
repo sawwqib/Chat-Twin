@@ -56,7 +56,7 @@ python main.py
 
 ## 📂 How It Works
 
-1. Upload chat history (WhatsApp (.txt) / Telegram (.json) / Instagram (.json) / Discord (.txt / .json) export)
+1. Upload chat history { WhatsApp (.txt) / Telegram (.json) / Instagram (.json) / Discord (.txt / .json) } export
 2. Bot processes messages
 3. Extracts:
 
